@@ -99,6 +99,7 @@ Jika tampilan menu tidak muncul setelah menambah data baru, pastikan:
 
 ---
 
+
 ## 🧾 Kesimpulan
 
 Aplikasi **KOPI JAYA MANDIRI** dirancang sebagai sistem manajemen internal yang membantu pengelolaan data perusahaan secara terstruktur dan efisien.  
