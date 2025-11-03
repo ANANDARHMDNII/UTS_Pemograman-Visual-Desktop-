@@ -121,6 +121,13 @@ Semoga dokumentasi ini dapat membantu dalam memahami struktur, fitur, serta cara
 ---
 
 ## MOCK UP :
+<img width="2927" height="1342" alt="login" src="https://github.com/user-attachments/assets/42d817d6-cdf3-46c0-8092-5cc3e28ae782" />
+<img width="10749" height="2931" alt="Dasboard" src="https://github.com/user-attachments/assets/2c938c13-5244-455e-a106-c0e22af725d3" />
+<img width="7001" height="3513" alt="AspNet Identity_User Identity " src="https://github.com/user-attachments/assets/4241fc54-5104-4bb1-9b6c-8cb1d0fbea7f" />
+<img width="7001" height="2969" alt="AspNet Identity_User Identity 2" src="https://github.com/user-attachments/assets/ba9134ad-7af6-42e4-993f-eaa9c997e093" />
+<img width="7001" height="2969" alt="AspNet Identity_User Identity 2" src="https://github.com/user-attachments/assets/ef7236df-2a43-4b4b-8dcd-6a00e4952d8c" />
+<img width="7040" height="2899" alt="Setup_User Management" src="https://github.com/user-attachments/assets/76c11322-608f-410e-8f71-ae95dfa6d4e7" />
+
 ## LINK YT : 
 
 ## 👩‍💻 Developer
