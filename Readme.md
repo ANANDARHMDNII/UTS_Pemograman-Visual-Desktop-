@@ -128,10 +128,9 @@ Semoga dokumentasi ini dapat membantu dalam memahami struktur, fitur, serta cara
 <img width="7001" height="2969" alt="AspNet Identity_User Identity 2" src="https://github.com/user-attachments/assets/ef7236df-2a43-4b4b-8dcd-6a00e4952d8c" />
 <img width="7040" height="2899" alt="Setup_User Management" src="https://github.com/user-attachments/assets/76c11322-608f-410e-8f71-ae95dfa6d4e7" />
 
-## LINK YT : 
+## LINK YT : https://youtu.be/xHaXIsf5Ih0?si=-pyBJzEpnt6xVl8G 
 
 ## 👩‍💻 Developer
 
 **Ananda Rahmadani**  
 © 2025 PT. KOPI JAYA MANDIRI  
-Semua hak dilindungi.
